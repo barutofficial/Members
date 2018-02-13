@@ -103,6 +103,4 @@ The RChain representative will check the following:
 
 #### Promotion to MEMBER
 
-When the four membership requirements are met and recorded, a Discord admin will promote the user to ROLE=MEMBER and append a ':' to the member's Discord alias for proof of individuality.
-
-Welcome to the club!
+Dört üyelik şartı yerine getirildiğinde ve kaydedildiğinde, bir Discord yöneticisi kullanıcıyı ROLE = ÜYE teşvik eder ve memb'a bir ':' ekler.
