@@ -33,6 +33,7 @@ Through [Github/Members](https://github.com/rchain/Members/) issues are created 
 - It's not mandatory but it really helps to become a RChain Member and get verified on Discord. This requires a $20 membership fee and KYC. See [Becoming a Member](#becoming-a-member) below.
    1. [ ] <img src="https://user-images.githubusercontent.com/1913335/32598353-e489f158-c539-11e7-9656-4bcbb55718d2.png" alt="registration" width="200" />
   <!-- 2. [ ] This is the #bounties channel in Discord:
+  <!-- 2. [ ] This is the #bounties channel in Discord:
   ![image](https://user-images.githubusercontent.com/1913335/32598502-3f0ddc98-c53a-11e7-85e9-f95fc799dede.png) -->
 
 #### Decentralized Budget Allocation
@@ -90,7 +91,7 @@ By joining the Cooperative you will participate in the lively conversation of th
   - On Discord, you can send a message to the @verify bot:
    ```/verify```
      - The bot responds by querying for the code that was emailed.
-     - On success, a 'verifier' will contact you (depending on the time of day this might not be immediate).
+     - On success, a 'verifier' will contact CONTRIBUTING.mdyou (depending on the time of day this might not be immediate).
      - After passing the verification, your role will be updated to Member.
 
 #### 4 Membership requirements
@@ -103,6 +104,4 @@ The RChain representative will check the following:
 
 #### Promotion to MEMBER
 
-When the four membership requirements are met and recorded, a Discord admin will promote the user to ROLE=MEMBER and append a ':' to the member's Discord alias for proof of individuality.
-
-Welcome to the club!
+Dört üyelik şartı yerine getirildiğinde ve kaydedildiğinde, bir Discord yöneticisi kullanıcıyı ROLE = ÜYE teşvik eder ve memb'a bir ':' ekler.
