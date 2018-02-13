@@ -90,7 +90,7 @@ By joining the Cooperative you will participate in the lively conversation of th
   - On Discord, you can send a message to the @verify bot:
    ```/verify```
      - The bot responds by querying for the code that was emailed.
-     - On success, a 'verifier' will contact you (depending on the time of day this might not be immediate).
+     - On success, a 'verifier' will contact CONTRIBUTING.mdyou (depending on the time of day this might not be immediate).
      - After passing the verification, your role will be updated to Member.
 
 #### 4 Membership requirements
@@ -103,6 +103,4 @@ The RChain representative will check the following:
 
 #### Promotion to MEMBER
 
-When the four membership requirements are met and recorded, a Discord admin will promote the user to ROLE=MEMBER and append a ':' to the member's Discord alias for proof of individuality.
-
-Welcome to the club!
+Dört üyelik şartı yerine getirildiğinde ve kaydedildiğinde, bir Discord yöneticisi kullanıcıyı ROLE = ÜYE teşvik eder ve memb'a bir ':' ekler.
